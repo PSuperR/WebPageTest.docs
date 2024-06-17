@@ -46,7 +46,7 @@ The WebPageTest [REST](https://en.wikipedia.org/wiki/Representational_state_tran
 > | Jakarta, Indonesia - GCE (4809) | gce-asia-southeast2 | Jakarta, Indonesia | CGK_ID_01 |
 > | Shanghai, China - Tencent (4811) | tencent-shanghai | Shanghai, China | PVG_CN_04 |
 > | Beijing, China - Tencent (4813) | tencent-beijing | Beijing, China |BJS_CN_04 |
-> | Taiwan - GCE (4815) | gce-asia-east1 | Taiwan | TPE_TW_01 |
+> | Taiwan, China - GCE (4815) | gce-asia-east1 | Taiwan, China | TPE_TW_01 |
 > | Cape Town, South Africa - EC2 (4803) | ec2-af-south-1| Cape Town, South Africa  | CPT_ZA_01 |
 > | Bahrain - EC2 (4804) | ec2-me-south-1 | Bahrain | BAH_BH_01 |
 > | Salt Lake City, Utah - GCE (4790) | gce-us-west3 | Salt Lake City, Utah, USA| SLC_US_02 |
